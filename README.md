@@ -13,6 +13,6 @@ INSTALL :
 https://help.ubuntu.com/community/Burg
 http://doc.ubuntu-fr.org/burg
 
-*Paste Darkness folder in /boot/burg/themes/
+*Paste downloaded folder in /boot/burg/themes/
 
 *Modify burg.cfg if needed : default configuration is two OS : Ubuntu(red pill) - Window 7(blue pill)
